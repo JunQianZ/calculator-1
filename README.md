@@ -1,3 +1,5 @@
+https://dev.azure.com/ChinaSummit2018/Calculator/_apis/build/status/JunQianZ.calculator-docker%20Image
+
 # Calculator.js: node.js 演示项目
 
 本应用使用node.js创建，并包含了试用mocha的单元测试代码。本应用的运行状态为网页中的计算器，如下图：
