@@ -1,4 +1,4 @@
-https://dev.azure.com/ChinaSummit2018/Calculator/_apis/build/status/JunQianZ.calculator-docker%20Image
+[![Build Status](https://dev.azure.com/ChinaSummit2018/Calculator/_apis/build/status/JunQianZ.calculator-docker%20Image)](https://dev.azure.com/ChinaSummit2018/Calculator/_build/latest?definitionId=7)
 
 # Calculator.js: node.js 演示项目
 
